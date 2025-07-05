@@ -1,17 +1,18 @@
-baseURL = "https://sakshamkhanal.github.io/"
+baseURL = "https://your-username.github.io/"
 title = "Saksham Khanal"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-[pagination]
-    paginate = 10
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10 
 
 [params]
   author = "Saksham Khanal"
   description = "Just a curious dev navigating the force."
   keywords = "blog,developer,personal,portfolio"
-  info = "Software Engineer |Zen Coder | Star Wars Fan"
+  info = "Software Engineer | Zen Coder | Star Wars Fan"
   avatarURL = "images/avatar.png" # Optional: put your profile pic in static/images/
   dateFormat = "2006-01-02"
   since = 2024
