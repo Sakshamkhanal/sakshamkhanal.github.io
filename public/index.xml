@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saksham Khanal</title>
-    <link>https://saksham.khanal.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Saksham Khanal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://saksham.khanal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;technical-skills&#34;&gt;&#xA;  Technical Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#technical-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, JavaScript&#xA;&lt;strong&gt;Frameworks:&lt;/strong&gt; Django, Django REST Framework, FastAPI, Odoo&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; Git, Docker, Azure (Function App, APIM), Linux CLI&#xA;&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL&#xA;&lt;strong&gt;Others:&lt;/strong&gt; OWL (JS framework), XML&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-experience&#34;&gt;&#xA;  Professional Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#professional-experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;junior-odoo-developer--hinge-engineering&#34;&gt;&#xA;  Junior Odoo Developer — &lt;em&gt;Hinge Engineering&lt;/em&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#junior-odoo-developer--hinge-engineering&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Apr 2025 – Present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Work primarily on Theme Prime, a custom eCommerce theme built on Odoo.&lt;/li&gt;&#xA;&lt;li&gt;Develop and customize web snippets to enhance UI/UX.&lt;/li&gt;&#xA;&lt;li&gt;Collaborate with frontend and backend teams for integration and optimization.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;trainee-odoo-developer--bitskraft-technologies&#34;&gt;&#xA;  Trainee Odoo Developer — &lt;em&gt;Bitskraft Technologies&lt;/em&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#trainee-odoo-developer--bitskraft-technologies&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Jan 2024 – Mar 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;h1 id=&#34;my-blog&#34;&gt;&#xA;  My Blog&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-blog&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I write regularly on &lt;a href=&#34;https://medium.com/@your-medium-username&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;.&#xA;Check out my latest articles there:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/@your-medium-username&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go to my Medium profile →&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;iss-tracking-system-personal-project&#34;&gt;&#xA;  ISS Tracking System (Personal Project)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#iss-tracking-system-personal-project&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Technologies: Flask, Celery, Redis&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Backend system to track the International Space Station using real-time location data.&lt;/li&gt;&#xA;&lt;li&gt;Uses Celery for task scheduling and Redis as the message broker.&lt;/li&gt;&#xA;&lt;li&gt;Currently refactoring architecture with Flask Blueprints for modularity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;koili-tms-system-internship&#34;&gt;&#xA;  Koili TMS System (Internship)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#koili-tms-system-internship&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Technologies: Django REST Framework&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed models, views, and serializers for the system.&lt;/li&gt;&#xA;&lt;li&gt;Created REST APIs to support CRUD operations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;odoo-lead-generation&#34;&gt;&#xA;  Odoo Lead Generation&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#odoo-lead-generation&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Technologies: Odoo &amp;amp; FastAPI&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
