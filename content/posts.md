@@ -8,9 +8,7 @@ menu:
     weight: 2
 ---
 
-# My Blog
-
-I write regularly on [Medium](https://medium.com/@your-medium-username).
+I write regularly on Medium.
 Check out my latest articles there:
 
-[Go to my Medium profile →](https://medium.com/@your-medium-username)
+[Go to my Medium profile →](https://medium.com/@saksham.khanal01)
